@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllisonCoffmanJsonAdapter", "AllisonCoffmanJsonAdapter\AllisonCoffmanJsonAdapter.csproj", "{17211AFF-7871-49E3-9145-673924AF4881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllisonCoffmanConsoleAdaptor", "AllisonCoffmanConsoleAdaptor\AllisonCoffmanConsoleAdaptor.csproj", "{8B9D37B4-0A03-4A66-90B7-B0B81BE8CE79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17211AFF-7871-49E3-9145-673924AF4881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17211AFF-7871-49E3-9145-673924AF4881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17211AFF-7871-49E3-9145-673924AF4881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17211AFF-7871-49E3-9145-673924AF4881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B9D37B4-0A03-4A66-90B7-B0B81BE8CE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9D37B4-0A03-4A66-90B7-B0B81BE8CE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9D37B4-0A03-4A66-90B7-B0B81BE8CE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9D37B4-0A03-4A66-90B7-B0B81BE8CE79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
