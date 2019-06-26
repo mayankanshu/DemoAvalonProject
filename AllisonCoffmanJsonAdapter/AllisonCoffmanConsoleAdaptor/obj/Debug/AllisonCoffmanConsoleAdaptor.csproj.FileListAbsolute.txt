@@ -1,0 +1,7 @@
+c:\users\mayankpatni\documents\visual studio 2015\Projects\AllisonCoffmanJsonAdapter\AllisonCoffmanConsoleAdaptor\bin\Debug\AllisonCoffmanConsoleAdaptor.exe.config
+c:\users\mayankpatni\documents\visual studio 2015\Projects\AllisonCoffmanJsonAdapter\AllisonCoffmanConsoleAdaptor\obj\Debug\AllisonCoffmanConsoleAdaptor.csprojResolveAssemblyReference.cache
+c:\users\mayankpatni\documents\visual studio 2015\Projects\AllisonCoffmanJsonAdapter\AllisonCoffmanConsoleAdaptor\bin\Debug\AllisonCoffmanConsoleAdaptor.exe
+c:\users\mayankpatni\documents\visual studio 2015\Projects\AllisonCoffmanJsonAdapter\AllisonCoffmanConsoleAdaptor\bin\Debug\AllisonCoffmanConsoleAdaptor.pdb
+c:\users\mayankpatni\documents\visual studio 2015\Projects\AllisonCoffmanJsonAdapter\AllisonCoffmanConsoleAdaptor\bin\Debug\Newtonsoft.Json.dll
+c:\users\mayankpatni\documents\visual studio 2015\Projects\AllisonCoffmanJsonAdapter\AllisonCoffmanConsoleAdaptor\obj\Debug\AllisonCoffmanConsoleAdaptor.exe
+c:\users\mayankpatni\documents\visual studio 2015\Projects\AllisonCoffmanJsonAdapter\AllisonCoffmanConsoleAdaptor\obj\Debug\AllisonCoffmanConsoleAdaptor.pdb
